@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.box {
+  margin: 10px 5px 10px 5px;
+}
+#msgContainer {
+  width: max-content;
+  border: 1px solid black;
+  border-color: #1e0505;
+}
+.align-left {
+  float: left;
+}
+.align-right {
+  float: right;
+}
